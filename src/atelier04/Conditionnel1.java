@@ -21,8 +21,7 @@ public class Conditionnel1 {
 			else
 				p4 = p3;
 		}
-
 		System.out.println(p4);
 	}
-
-}
+		}
+			
