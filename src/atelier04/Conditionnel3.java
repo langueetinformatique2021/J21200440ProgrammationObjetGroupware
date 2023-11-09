@@ -37,7 +37,7 @@ public class Conditionnel3 {
 		
 	}
 
-	public static int mediane(int p1, int p2, int p3) {
+	public static void mediane(int p1, int p2, int p3) {
 		int p4;
 
 		if (p1 < p2) {
